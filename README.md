@@ -1,2 +1,2 @@
 # Coursera
-test repository
+Assignments
